@@ -8,7 +8,8 @@ export const weddingConfig = {
   initials: "R & A",
 
   // Wedding Date (ISO format for countdown)
-  weddingDateISO: "2026-08-27T10:00:00",
+
+weddingDateISO: "2026-08-27T11:07:00",
 
   weddingDateDisplay: {
     en: "AUGUST 27, 2026",
