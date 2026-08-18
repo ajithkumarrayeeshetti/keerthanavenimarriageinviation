@@ -126,7 +126,7 @@ export default function Home() {
               icon={<Clock size={18} />}
               label={t.details.dateTime}
             >
-              10:00 AM onwards
+              11:07 AM onwards
             </DetailRow>
 
             <DetailRow
