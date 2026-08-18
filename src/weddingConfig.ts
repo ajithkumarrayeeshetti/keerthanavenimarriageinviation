@@ -59,7 +59,7 @@ export const weddingConfig = {
       nameEn: "Wedding Ceremony",
       nameTe: "వివాహ మహోత్సవం",
       date: "Aug 27, 2026",
-      time: "10:00 AM",
+      time: "11:07 AM",
       emoji: "💍",
       tint: "bg-red-50 border-maroon/40",
     },
@@ -100,5 +100,5 @@ export const weddingConfig = {
   heroImage: "/images/hero.jpg",
 
   // Replace with your deployed website URL
-  siteUrl: "https://your-wedding-site.example.com",
+  siteUrl: "https://keerthanavenumarriageinviation.vercel.app/",
 };
