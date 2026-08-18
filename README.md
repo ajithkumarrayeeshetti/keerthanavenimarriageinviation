@@ -1,4 +1,4 @@
-# Ananya & Arjun — Wedding Invitation Website
+# Keerthana & Venu — Wedding Invitation Website
 
 A complete, production-ready multi-page Indian wedding invitation site built with
 React 19 + TypeScript + Vite + Tailwind CSS + react-router-dom (HashRouter).
